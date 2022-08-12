@@ -6,8 +6,8 @@ To run this code, you will need to install: numpy, sklearn, matplotlib, spikeext
 
 The helpful files for the code:
 
-* models file includes the exponential decay and monopolar model for running exponential decay-VAE and monopolar-VAE.
-* utility_functions file is used for data augmentation and visualitations of the results for exponential decay-VAE and monopolar-VAE.
+* **models** file includes the exponential decay and monopolar model for running exponential decay-VAE and monopolar-VAE.
+* **utility_functions** file is used for data augmentation and visualitations of the results for exponential decay-VAE and monopolar-VAE.
 
 The following notebooks are required for each model:
 
